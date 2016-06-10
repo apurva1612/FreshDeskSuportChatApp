@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Support Chat Application</string>
+    <string name="chat_btn">Start Chat</string>
+    <string name="show_conversion">Show All Conversation</string>
+    <string name="try_it">Try It Out...!!!</string>
+    <string name="chat_text">Live Support Chat App </string>
+    <string name="new_conv">To Start a new conversation </string>
+    <string name="all_conv">To see all previous conversation </string>
+</resources>

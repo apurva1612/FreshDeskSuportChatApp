@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/apurvasharma/practo_project/copy fabric-droid/ChatApplication/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout-v14/abc_activity_chooser_view.xml",
+        "source": "/Users/apurvasharma/practo_project/copy fabric-droid/ChatApplication/mobihelp_sdk_android_v1.5.4/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout-v14/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/apurvasharma/practo_project/copy fabric-droid/ChatAppFreshedesk/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout-v14/abc_activity_chooser_view.xml",
+        "source": "/Users/apurvasharma/practo_project/copy fabric-droid/ChatAppFreshedesk/mobihelp_sdk_android_v1.5.4/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout-v14/abc_activity_chooser_view.xml"
+    }
+]

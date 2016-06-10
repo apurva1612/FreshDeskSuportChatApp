@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/apurvasharma/practo_project/copy fabric-droid/ChatApplication/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/androidTest/debug/menu/mobihelp_solutions_list.xml",
+        "source": "/Users/apurvasharma/practo_project/copy fabric-droid/ChatApplication/mobihelp_sdk_android_v1.5.4/build/intermediates/bundles/debug/res/menu/mobihelp_solutions_list.xml"
+    },
+    {
+        "merged": "/Users/apurvasharma/practo_project/copy fabric-droid/ChatAppFreshedesk/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/androidTest/debug/menu/mobihelp_feedback.xml",
+        "source": "/Users/apurvasharma/practo_project/copy fabric-droid/ChatAppFreshedesk/mobihelp_sdk_android_v1.5.4/build/intermediates/bundles/debug/res/menu/mobihelp_feedback.xml"
+    },
+    {
+        "merged": "/Users/apurvasharma/practo_project/copy fabric-droid/ChatAppFreshedesk/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/androidTest/debug/menu/mobihelp_ticket_list.xml",
+        "source": "/Users/apurvasharma/practo_project/copy fabric-droid/ChatAppFreshedesk/mobihelp_sdk_android_v1.5.4/build/intermediates/bundles/debug/res/menu/mobihelp_ticket_list.xml"
+    },
+    {
+        "merged": "/Users/apurvasharma/practo_project/copy fabric-droid/ChatApplication/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/androidTest/debug/menu/mobihelp_ticket_list.xml",
+        "source": "/Users/apurvasharma/practo_project/copy fabric-droid/ChatApplication/mobihelp_sdk_android_v1.5.4/build/intermediates/bundles/debug/res/menu/mobihelp_ticket_list.xml"
+    },
+    {
+        "merged": "/Users/apurvasharma/practo_project/copy fabric-droid/ChatApplication/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/androidTest/debug/menu/mobihelp_feedback.xml",
+        "source": "/Users/apurvasharma/practo_project/copy fabric-droid/ChatApplication/mobihelp_sdk_android_v1.5.4/build/intermediates/bundles/debug/res/menu/mobihelp_feedback.xml"
+    },
+    {
+        "merged": "/Users/apurvasharma/practo_project/copy fabric-droid/ChatAppFreshedesk/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/androidTest/debug/menu/mobihelp_solutions_list.xml",
+        "source": "/Users/apurvasharma/practo_project/copy fabric-droid/ChatAppFreshedesk/mobihelp_sdk_android_v1.5.4/build/intermediates/bundles/debug/res/menu/mobihelp_solutions_list.xml"
+    }
+]
